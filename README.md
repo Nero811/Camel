@@ -5,6 +5,6 @@
 使用Camel可以大大縮減程式碼，使程式更簡短更容易閱讀。
 
 ## Environment
-Spring Boot 3.1.3
-JDK 17
+Spring Boot 3.1.3  
+JDK 17  
 Camel 4.0.2

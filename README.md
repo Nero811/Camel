@@ -1,8 +1,8 @@
 # 練習Camel + Spring JDBC + Mysql DB + Redis
 
 ## 情境說明:
-當有需求需要於特定時間從DB撈取資料至Redis時，  
-使用Camel可以使程式碼更簡短，更容易閱讀。
+有需求需要於特定時間區間從DB撈取資料且傳輸至Redis Server，  
+使用Camel可以大大縮減程式碼，使程式更簡短更容易閱讀。
 
 ## Environment
 Spring Boot 3.1.3

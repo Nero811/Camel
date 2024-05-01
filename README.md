@@ -6,5 +6,6 @@
 
 ## Environment
 Spring Boot 3.1.3  
+Spring JDBC 3.1.3  
 JDK 17  
 Camel 4.0.2

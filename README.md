@@ -1,2 +1,1 @@
-# Camel
-Practice Camel + Spring JDBC
+# 練習
